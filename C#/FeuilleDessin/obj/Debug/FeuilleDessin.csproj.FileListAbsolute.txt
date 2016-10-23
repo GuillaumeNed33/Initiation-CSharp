@@ -1,0 +1,69 @@
+Z:\S2\IHM\TD2\FeuilleDessin\FeuilleDessin\bin\Debug\FeuilleDessin.exe.config
+Z:\S2\IHM\TD2\FeuilleDessin\FeuilleDessin\bin\Debug\FeuilleDessin.exe
+Z:\S2\IHM\TD2\FeuilleDessin\FeuilleDessin\bin\Debug\FeuilleDessin.pdb
+Z:\S2\IHM\TD2\FeuilleDessin\FeuilleDessin\obj\Debug\FeuilleDessin.Properties.Resources.resources
+Z:\S2\IHM\TD2\FeuilleDessin\FeuilleDessin\obj\Debug\FeuilleDessin.csproj.GenerateResource.Cache
+Z:\S2\IHM\TD2\FeuilleDessin\FeuilleDessin\obj\Debug\FeuilleDessin.exe
+Z:\S2\IHM\TD2\FeuilleDessin\FeuilleDessin\obj\Debug\FeuilleDessin.pdb
+Z:\S2\IHM\TD2\FeuilleDessin\FeuilleDessin\obj\Debug\FeuilleDessin.FeuilleDessin.resources
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2\FeuilleDessin\FeuilleDessin\bin\Debug\FeuilleDessin.exe.config
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2\FeuilleDessin\FeuilleDessin\obj\Debug\FeuilleDessin.exe
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2\FeuilleDessin\FeuilleDessin\bin\Debug\FeuilleDessin.exe
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2\FeuilleDessin\FeuilleDessin\bin\Debug\FeuilleDessin.pdb
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2\FeuilleDessin\FeuilleDessin\obj\Debug\FeuilleDessin.csprojResolveAssemblyReference.cache
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2\FeuilleDessin\FeuilleDessin\obj\Debug\FeuilleDessin.FeuilleDessin.resources
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2\FeuilleDessin\FeuilleDessin\obj\Debug\FeuilleDessin.Properties.Resources.resources
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2\FeuilleDessin\FeuilleDessin\obj\Debug\FeuilleDessin.csproj.GenerateResource.Cache
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2\FeuilleDessin\FeuilleDessin\obj\Debug\FeuilleDessin.pdb
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2 & TD3\TD3\FeuilleDessin\bin\Debug\FeuilleDessin.exe.config
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2 & TD3\TD3\FeuilleDessin\obj\Debug\FeuilleDessin.exe
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2 & TD3\TD3\FeuilleDessin\obj\Debug\FeuilleDessin.pdb
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2 & TD3\FeuilleDessin\FeuilleDessin\bin\Debug\FeuilleDessin.exe.config
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2 & TD3\FeuilleDessin\FeuilleDessin\obj\Debug\FeuilleDessin.exe
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2 & TD3\FeuilleDessin\FeuilleDessin\obj\Debug\FeuilleDessin.pdb
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2 & TD3\FeuilleDessin\FeuilleDessin\bin\Debug\FeuilleDessin.exe
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2 & TD3\FeuilleDessin\FeuilleDessin\bin\Debug\FeuilleDessin.pdb
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2 & TD3\FeuilleDessin\FeuilleDessin\obj\Debug\FeuilleDessin.csprojResolveAssemblyReference.cache
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2 & TD3\FeuilleDessin\FeuilleDessin\obj\Debug\FeuilleDessin.FeuilleDessin.resources
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2 & TD3\FeuilleDessin\FeuilleDessin\obj\Debug\FeuilleDessin.Properties.Resources.resources
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2 & TD3\FeuilleDessin\FeuilleDessin\obj\Debug\FeuilleDessin.csproj.GenerateResource.Cache
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2 & TD3\TD3\FeuilleDessin\bin\Debug\FeuilleDessin.exe
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2 & TD3\TD3\FeuilleDessin\bin\Debug\FeuilleDessin.pdb
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2 & TD3\TD3\FeuilleDessin\obj\Debug\FeuilleDessin.csprojResolveAssemblyReference.cache
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2 & TD3\TD3\FeuilleDessin\obj\Debug\FeuilleDessin.FeuilleDessin.resources
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2 & TD3\TD3\FeuilleDessin\obj\Debug\FeuilleDessin.Properties.Resources.resources
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2 & TD3\TD3\FeuilleDessin\obj\Debug\FeuilleDessin.csproj.GenerateResource.Cache
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\TD2 & TD3\TD3\FeuilleDessin\obj\Debug\FeuilleDessin.ParametresNoeud.resources
+Z:\S2\IHM\TD2 & TD3\TD3\FeuilleDessin\bin\Debug\FeuilleDessin.exe.config
+Z:\S2\IHM\TD2 & TD3\TD3\FeuilleDessin\obj\Debug\FeuilleDessin.exe
+Z:\S2\IHM\TD2 & TD3\TD3\FeuilleDessin\obj\Debug\FeuilleDessin.csprojResolveAssemblyReference.cache
+Z:\S2\IHM\TD2 & TD3\TD3\FeuilleDessin\obj\Debug\FeuilleDessin.FeuilleDessin.resources
+Z:\S2\IHM\TD2 & TD3\TD3\FeuilleDessin\obj\Debug\FeuilleDessin.ParametresNoeud.resources
+Z:\S2\IHM\TD2 & TD3\TD3\FeuilleDessin\obj\Debug\FeuilleDessin.Properties.Resources.resources
+Z:\S2\IHM\TD2 & TD3\TD3\FeuilleDessin\obj\Debug\FeuilleDessin.csproj.GenerateResource.Cache
+Z:\S2\IHM\TD2 & TD3\TD3\FeuilleDessin\bin\Debug\FeuilleDessin.exe
+Z:\S2\IHM\TD2 & TD3\TD3\FeuilleDessin\bin\Debug\FeuilleDessin.pdb
+Z:\S2\IHM\TD2 & TD3\TD3\FeuilleDessin\obj\Debug\FeuilleDessin.pdb
+Z:\S2\IHM\Suite des TD\FeuilleDessin\bin\Debug\FeuilleDessin.exe.config
+Z:\S2\IHM\Suite des TD\FeuilleDessin\obj\Debug\FeuilleDessin.exe
+Z:\S2\IHM\Suite des TD\FeuilleDessin\obj\Debug\FeuilleDessin.pdb
+Z:\S2\IHM\Suite des TD\FeuilleDessin\obj\Debug\FeuilleDessin.csprojResolveAssemblyReference.cache
+Z:\S2\IHM\Suite des TD\FeuilleDessin\obj\Debug\FeuilleDessin.FeuilleDessin.resources
+Z:\S2\IHM\Suite des TD\FeuilleDessin\obj\Debug\FeuilleDessin.ParametresNoeud.resources
+Z:\S2\IHM\Suite des TD\FeuilleDessin\obj\Debug\FeuilleDessin.Properties.Resources.resources
+Z:\S2\IHM\Suite des TD\FeuilleDessin\obj\Debug\FeuilleDessin.csproj.GenerateResource.Cache
+Z:\S2\IHM\Suite des TD\FeuilleDessin\bin\Debug\FeuilleDessin.exe
+Z:\S2\IHM\Suite des TD\FeuilleDessin\bin\Debug\FeuilleDessin.pdb
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\Suite des TD\FeuilleDessin\bin\Debug\FeuilleDessin.exe.config
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\Suite des TD\FeuilleDessin\obj\Debug\FeuilleDessin.exe
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\Suite des TD\FeuilleDessin\obj\Debug\FeuilleDessin.pdb
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\Suite des TD\FeuilleDessin\bin\Debug\FeuilleDessin.exe
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\Suite des TD\FeuilleDessin\bin\Debug\FeuilleDessin.pdb
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\Suite des TD\FeuilleDessin\obj\Debug\FeuilleDessin.csprojResolveAssemblyReference.cache
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\Suite des TD\FeuilleDessin\obj\Debug\FeuilleDessin.FeuilleDessin.resources
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\Suite des TD\FeuilleDessin\obj\Debug\FeuilleDessin.ParametresNoeud.resources
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\Suite des TD\FeuilleDessin\obj\Debug\FeuilleDessin.Properties.Resources.resources
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\Suite des TD\FeuilleDessin\obj\Debug\FeuilleDessin.csproj.GenerateResource.Cache
+\\IUT\Etudiants\Home\gnedelec001\Desktop\Suite des TD\FeuilleDessin\bin\Debug\FeuilleDessin.exe.config
+\\IUT\Etudiants\Home\gnedelec001\Desktop\Suite des TD\FeuilleDessin\obj\Debug\FeuilleDessin.exe
+\\IUT\Etudiants\Home\gnedelec001\Desktop\Suite des TD\FeuilleDessin\obj\Debug\FeuilleDessin.pdb
